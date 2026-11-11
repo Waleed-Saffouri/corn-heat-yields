@@ -1,0 +1,15 @@
+years,1960-2025
+yield_1960,3.43
+yield_2025,11.71
+yield_growth_x,3.4
+pct_per_degF,-1.73
+pct_per_inch_rain,1.63
+r2,0.34
+r_temp,-0.52
+r_rain,0.39
+mean_july_temp,74.4
+mean_july_rain,4.17
+n_hot_dry,10
+hot_dry_years,"[1966, 1974, 1980, 1983, 1988, 2002, 2006, 2011, 2012, 2019]"
+hot_dry_avg_dev,-10.9
+other_avg_dev,1.9
